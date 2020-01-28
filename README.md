@@ -1,4 +1,4 @@
-# proyecto_contador
+# counter_project
 
 A new Flutter project.
 
